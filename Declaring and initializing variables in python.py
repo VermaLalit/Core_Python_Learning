@@ -27,7 +27,7 @@ print(b)
 print(c)
 print(d)
 
-a = b = c = d = False
+a = b = c = d = True
 print(a)
 print(b)
 print(c)
